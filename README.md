@@ -1,6 +1,6 @@
 # Compose Demo App powered by Kotlin/Wasm
 
-A simple demo app built with [Compose Multiplatform](https://www.jetbrains.com/compose-multiplatform/) and [Kotlin/Wasm](https://kotl.in/wasm).
+A simple demo app built with Compose Multiplatform and Kotlin/Wasm.
 
 Try the demo → https://wasmdemo.github.io.
 
